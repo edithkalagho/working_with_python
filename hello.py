@@ -1,5 +1,4 @@
-#this comment
+age = 23
+name = "edith"
 
-#comment
-
-print("hello world")
+print("My name is " + name)
