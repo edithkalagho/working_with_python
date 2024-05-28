@@ -1,4 +1,5 @@
-age = 23
-name = "edith"
+print(2**2)
 
-print("My name is " + name)
+print(2*2)
+print(3%2)
+print(3//2)
